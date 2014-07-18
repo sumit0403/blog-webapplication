@@ -1,8 +1,8 @@
 INSTALLATION GUIDE:
 
 1. install nodejs, express and mongodb on your system then run the commands
-2.  npm install
-3. go in the expresshogan directory
+2. go in the expresshogan directory and type 
+3.  npm install
 4.  npm start
 5. open your browser and type the url :  "http://localhost:3000"
 

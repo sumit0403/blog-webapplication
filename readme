@@ -1,0 +1,31 @@
+INSTALLATION GUIDE:
+
+1. install nodejs, express and mongodb on your system then run the commands
+2.  npm install
+3. go in the expresshogan directory
+4.  npm start
+5. open your browser and type the url :  "http://localhost:3000"
+
+
+
+How to install node js in ubuntu:
+Run the following commands one by one
+
+    sudo apt-get install python-software-properties
+    sudo add-apt-repository ppa:chris-lea/node.js
+    sudo apt-get update
+    sudo apt-get install nodejs
+    
+    
+To install express run the following commands:
+
+    npm install -g express
+    
+
+To install mongodb:
+
+    sudo apt-get install mongodb-org
+
+
+
+

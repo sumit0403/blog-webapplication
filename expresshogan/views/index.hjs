@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blogger</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>See all your posts</h1>
+    <a href="/new">Add new post</a>
+    <div class="blogs">
+    	{{#local}}
+      <div class="yourpost" ><b>{{title}}:</b> <br />{{content}}</div>
+      	{{/local}}
+			
+    </div>
+  </body>
+</html>
